@@ -3,3 +3,4 @@ Summary: In my project, I conducted a comprehensive analysis of customer tenure 
 I built a strong data model by establishing relationships based on key attributes, facilitating insightful analysis. Multiple report pages (dashboards) were designed to visualize key performance indicators (KPIs), with varied formatting options applied for enhanced clarity and aesthetics. After completion, the report was published to Power BI services and configured for auto-refresh to ensure the data remains current. A dashboard was then created in Power BI services based on the published report, providing users with an intuitive and interactive interface for exploring insights derived from the data.
 
 **PowerBI Project Link: **
+https://app.powerbi.com/links/JbWUisoiTK?ctid=da9a94b6-4681-49bc-bd7c-bab9eac0ad3c&pbi_source=linkShare
